@@ -1,2 +1,2 @@
 # resource
-all resource
+docker link resource
